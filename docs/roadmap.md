@@ -3,9 +3,9 @@
 ## Phase 0 — Foundation
 
 - [x] Define project scope
-- [ ] Create GitHub repository
-- [ ] Create documentation structure
-- [ ] Publish project announcement
+- [x] Create GitHub repository
+- [x] Create documentation structure
+- [x] Publish project announcement
 
 ## Phase 1 — Infrastructure
 
